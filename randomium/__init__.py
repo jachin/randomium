@@ -2,6 +2,8 @@
 
 import random
 
+# Animal data from Wikipedia circa Dec 2014.
+
 animals = [
     'Abditomys',
     'Abeomelomys',
